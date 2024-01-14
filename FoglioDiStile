@@ -1,11 +1,11 @@
 h1{
-    color: #00FF00;
+    color: #00FF00; <!-- colore rosso del testo -->
 }
 p{
-    font-family: Arial, Helvetica, sans-serif;
-    background-color: red;
+    font-family: Arial, Helvetica, sans-serif;  <!-- tipo di font -->
+    background-color: red;   <!--colore sfondo-->
     color: white;
-    font-size: 20px;
+    font-size: 20px;   <!--dimensione del testo-->
 }
 h6{
     font-size: 20px;
