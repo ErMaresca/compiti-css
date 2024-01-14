@@ -1,0 +1,11 @@
+body{
+    background: url(https://www.indiewire.com/wp-content/uploads/2017/10/matrix-code.jpg);
+}
+h1{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+}
+img{
+    padding-left: 700px;
+}
