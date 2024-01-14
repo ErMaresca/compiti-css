@@ -1,0 +1,6 @@
+h2{
+    background-color: orangered;
+}
+section{
+    background-image: url(https://img.freepik.com/premium-photo/blue-crystals-wallpapers-that-are-high-definition_738906-1114.jpg);
+}
