@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inni della Juventus</title>
+    <link rel="stylesheet"  href="CssBordo.css" type="text/css">
+</head>
+<body>
+
+    <header>
+        <h1>Inni della Juventus</h1>
+    </header>
+    <section id="inno1">
+        <h2>Inno Storia di un grande amore</h2>
+        <p>
+            Simili a degli eroi, abbiamo il cuore a strisce
+            Portaci dove vuoi, verso le tue conquiste
+            Dove tu arriverai, sarà la storia di tutti noi
+            Solo chi corre può, fare di te la squadra che sei.
+
+            Juve, storia di un grande amore
+            Bianco che abbraccia il nero
+            Coro che si alza davvero, per te
+
+            Portaci dove vuoi, siamo una curva in festa
+            Come un abbraccio noi, e ancora non ci basta
+            Ogni pagina nuova sai, sarà ancora la storia di tutti noi
+            Solo chi corre può, fare di te quello che sei.
+
+            Juve, storia di un grande amore
+            Bianco che abbraccia il nero
+            Coro che si alza davvero, solo per te
+            E' la juve, storia di quel che saro'
+            Quando fischia l'inizio
+            Ed inizia quel sogno che sei
+
+            Juve, storia di un grande amore
+            Bianco che abbraccia il nero
+            Coro che si alza davvero
+            Juve per sempre sara'
+
+            Juve, storia di un grande amore
+            Bianco che abbraccia il nero
+            Coro che si alza davvero
+            Juve per sempre sara'
+        </p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Juventus FC</p>
+    </footer>
+
+</body>
+</html>
